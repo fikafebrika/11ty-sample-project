@@ -1,0 +1,17 @@
+{
+  "name": "11ty-sample-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --watch --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-cache-assets": "^2.3.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
